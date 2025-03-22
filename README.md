@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorena
-- 👀 I’m interested in hacking back my ex
-- 🌱 I’m currently learning basics of Terminal 
-- 💞️ I’m looking to collaborate on vulnerability testing 
+- 👀 I’m interested in Matrix
+- 🌱 I’m currently learning basics of Everything for begginers
+- 💞️ I’m looking to collaborate on simple coding
 - 📫 How to reach me - text me here
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
